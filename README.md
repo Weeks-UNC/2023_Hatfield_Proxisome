@@ -9,9 +9,9 @@ There are two options to view these notebooks:
 
 1. Static web pages: These are view-only versions of the notebooks.
 
-- [Full analysis and all figures](./full-analysis.html)
-- [Combining base-pairing bonuses](./combining-bp-bonuses.html)
-- [Combining PAIRs](./combining-pairmap.html)
+- [Full analysis and all figures](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/2023_Hatfield_Proxisome/blob/main/full-analysis.html)
+- [Combining base-pairing bonuses](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/2023_Hatfield_Proxisome/blob/main/combining-bp-bonuses.html)
+- [Combining PAIRs](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/2023_Hatfield_Proxisome/blob/main/combining-pairmap.html)
 
 2. Interactive notebooks on your local machine
 
