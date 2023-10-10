@@ -1,0 +1,42 @@
+[
+  { Version:"1.0" Title:"3UTR-MS2" }
+  {
+    Title:"3UTR-MS2"
+    Mode:Standard
+    Flip:true
+    Strands:[
+      {
+        Strand:[
+          { ID:1 Base:A X:20.2 Y:187.2 }
+          { ID:2 Base:C X:20.2 Y:169.6 }
+          { ID:3 Base:A X:20.2 Y:152.0 }
+          { ID:4 Base:T X:20.2 Y:134.4 }
+          { ID:5 Base:G X:20.2 Y:116.8 }
+          { ID:6 Base:A X:16.3 Y:97.7 }
+          { ID:7 Base:G X:20.2 Y:78.5 }
+          { ID:8 Base:G X:20.2 Y:60.9 }
+          { ID:9 Base:A X:14.3 Y:42.5 }
+          { ID:10 Base:T X:25.7 Y:26.8 }
+          { ID:11 Base:C X:45.1 Y:26.8 }
+          { ID:12 Base:A X:56.5 Y:42.5 }
+          { ID:13 Base:C X:50.6 Y:60.9 }
+          { ID:14 Base:C X:50.6 Y:78.5 }
+          { ID:15 Base:C X:50.6 Y:116.8 }
+          { ID:16 Base:A X:50.6 Y:134.4 }
+          { ID:17 Base:T X:50.6 Y:152.0 }
+          { ID:18 Base:G X:50.6 Y:169.6 }
+          { ID:19 Base:T X:50.6 Y:187.2 }
+        ]
+      }
+    ]
+    Pairs:[
+      { Pair:"1:19" Type:BP }
+      { Pair:"2:18" Type:BP }
+      { Pair:"3:17" Type:BP }
+      { Pair:"4:16" Type:BP }
+      { Pair:"5:15" Type:BP }
+      { Pair:"7:14" Type:BP }
+      { Pair:"8:13" Type:BP }
+    ]
+  }
+]
