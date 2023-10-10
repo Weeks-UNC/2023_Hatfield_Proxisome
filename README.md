@@ -13,7 +13,7 @@ There are two options to view these notebooks:
 These are view-only versions of the notebooks.
 
 Analyses used in Figures:
-- [Figures 3, S1, and S2](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/2023_Hatfield_Proxisome/blob/main/Figures_3_S1_S2.html)
+- [Figures 3, S1, and S2](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/2023_Hatfield_Proxisome/blob/main/figures_3_S1_S2.html)
 
 Other code and analyses:
 - [Combining base-pairing bonuses](https://htmlpreview.github.io/?https://github.com/Weeks-UNC/2023_Hatfield_Proxisome/blob/main/combining-bp-bonuses.html)
